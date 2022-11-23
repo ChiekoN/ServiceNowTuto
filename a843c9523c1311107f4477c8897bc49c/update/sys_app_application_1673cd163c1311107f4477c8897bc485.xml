@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-23 09:59:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1673cd163c1311107f4477c8897bc485</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Test App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Test App" source="x_snc_my_test_app">a843c9523c1311107f4477c8897bc49c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Test App">a843c9523c1311107f4477c8897bc49c</sys_scope>
+        <sys_update_name>sys_app_application_1673cd163c1311107f4477c8897bc485</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-23 09:59:24</sys_updated_on>
+        <title>My Test App</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
